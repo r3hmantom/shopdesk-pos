@@ -1,0 +1,6 @@
+Pillow
+requests
+pygame
+customtkinter
+psycopg2-binary
+python-dotenv
