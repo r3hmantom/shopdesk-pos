@@ -1,6 +1,6 @@
-# SDA POS System
+# ShopDesk POS
 
-Point of Sale desktop app for small retail — **Python (Tkinter) + PostgreSQL**, structured with **MVC**.
+Desktop point-of-sale app for small retail. Built with **Python (Tkinter) + PostgreSQL**, structured with **MVC**.
 
 ## Highlights
 
@@ -30,4 +30,4 @@ Configure PostgreSQL via project config / `.env` (never commit secrets).
 
 ## What this demonstrates
 
-Production-minded desktop app structure: clear MVC boundaries, role checks, and core retail workflows.
+Clear MVC boundaries, role checks, and core retail workflows in a desktop app.
